@@ -2,7 +2,7 @@
 
 Exercises of course Data Analytics with Python summer 2021. 
 
-**Week 1
+## Week 1
 1. https://dap-21.mooc.fi/week-1/basics#Exercise-1-(hello-world)
 2. https://dap-21.mooc.fi/week-1/basics#Exercise-2-(compliment)
 3. https://dap-21.mooc.fi/week-1/basics#Exercise-3-(multiplication)
@@ -24,7 +24,7 @@ Exercises of course Data Analytics with Python summer 2021.
 19. https://dap-21.mooc.fi/week-1/basics#Exercise-19-(sum-equation)
 20. https://dap-21.mooc.fi/week-1/basics#Exercise-20-(usemodule)
 
-**Week 2
+## Week 2
 1. https://dap-21.mooc.fi/week-2/basics2#Exercise-1-(integers-in-brackets)
 2. https://dap-21.mooc.fi/week-2/basics2#Exercise-2-(file-listing)
 3. https://dap-21.mooc.fi/week-2/basics2#Exercise-3-(red-green-blue)
@@ -42,7 +42,7 @@ Exercises of course Data Analytics with Python summer 2021.
 15. https://dap-21.mooc.fi/week-2/numpy#Exercise-15-(vector-angles)
 16. https://dap-21.mooc.fi/week-2/numpy#Exercise-16-(multiplication-table-revisited)
 
-**Week 3
+## Week 3
 1. https://dap-21.mooc.fi/week-3/numpy2#Exercise-1-(column-comparison)
 2. https://dap-21.mooc.fi/week-3/numpy2#Exercise-2-(first-half-second-half)
 3. https://dap-21.mooc.fi/week-3/numpy2#Exercise-3-(most-frequent-first)
@@ -59,7 +59,7 @@ Exercises of course Data Analytics with Python summer 2021.
 14. https://dap-21.mooc.fi/week-3/pandas1#Exercise-14-(operations-on-series)
 15. https://dap-21.mooc.fi/week-3/pandas1#Exercise-15-(inverse-series)
 
-**Week 4
+## Week 4
 1. https://dap-21.mooc.fi/week-4/pandas2#Exercise-1-(cities)
 2. https://dap-21.mooc.fi/week-4/pandas2#Exercise-2-(powers-of-series)
 3. https://dap-21.mooc.fi/week-4/pandas2#Exercise-3-(municipal-information)
@@ -78,7 +78,7 @@ Exercises of course Data Analytics with Python summer 2021.
 16. https://dap-21.mooc.fi/week-4/pandas2#Exercise-16-(split-date)
 17. https://dap-21.mooc.fi/week-4/pandas2#Exercise-17-(cleaning-data)
 
-**Week 5
+## Week 5
 1. https://dap-21.mooc.fi/week-5/pandas3#Exercise-1-(split-date-continues)
 2. https://dap-21.mooc.fi/week-5/pandas3#Exercise-2-(cycling-weather)
 3. https://dap-21.mooc.fi/week-5/pandas3#Exercise-3-(top-bands)
@@ -93,7 +93,7 @@ Exercises of course Data Analytics with Python summer 2021.
 12. https://dap-21.mooc.fi/week-5/linear_regression#Exercise-12-(coefficient-of-determination)
 13. https://dap-21.mooc.fi/week-5/linear_regression#Exercise-13-(cycling-weather-continues)
 
-**Week 6
+## Week 6
 1. https://dap-21.mooc.fi/week-6/bayes#Exercise-1-(blob-classification)
 2. https://dap-21.mooc.fi/week-6/bayes#Exercise-2-(plant-classification)
 3. https://dap-21.mooc.fi/week-6/bayes#Exercise-3-(word-classification)
@@ -103,5 +103,5 @@ Exercises of course Data Analytics with Python summer 2021.
 7. https://dap-21.mooc.fi/week-6/clustering#Exercise-7-(binding-sites)
 8. https://dap-21.mooc.fi/week-6/pca#Exercise-8-(explained-variance)
 
-**Week 7
+## Week 7
 https://dap-21.mooc.fi/week-7/project
