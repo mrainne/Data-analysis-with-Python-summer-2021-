@@ -1,0 +1,12 @@
+.DS_Store
+.swp
+.tmc.json
+__pycache__
+__init__.py
+*/test
+*/tmc
+*/.tmc_test_results.json
+*ipynb
+!part07-e01_sequence_analysis/src/project_notebook_sequence_analysis.ipynb
+*.webarchive
+
